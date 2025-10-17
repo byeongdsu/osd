@@ -29,4 +29,4 @@ SafeRoute는 최단 경로라는 단일 가치를 넘어 사용자의 **안전**
 
 *자세한 내용은 프로젝트 제안서 확인*
 
-[프로젝트 제안서](PK)
+[프로젝트 제안서](https://github.com/byeongdsu/osd/blob/main/doc/%EB%B3%B4%ED%96%89%20%EC%95%88%EC%A0%84%20%ED%96%A5%EC%83%81%EC%9D%84%20%EC%9C%84%ED%95%9C%20AI%20%EA%B8%B0%EB%B0%98%20SafeRoute%20%EC%B6%94%EC%B2%9C%20%EA%B8%B0%EC%88%A0%20%EC%84%A4%EA%B3%84(20251765%2C%EC%84%9C%EB%B3%91%EC%88%98).docx)
