@@ -19,9 +19,10 @@ SafeRoute는 최단 경로라는 단일 가치를 넘어 사용자의 **안전**
 - AI가 융합된 데이터를 기반으로 각 경로의 위험 요소를 분석하고 Safety Score 라는 객관적인 지표를 산출하여 제시한다.
 ---
 ## 기술 스택
+<img width="720" height="238" alt="image" src="https://github.com/user-attachments/assets/63f59037-06e1-45bb-af15-4d7908234ef2" />
 
 | 구분 | 기술 | 역할 |
 |--------|--------|--------|
-| **프론트엔드** | Flutter, Mapbox | 크로스플랫폼 앱 개발 및 지도 시각화 |
-| **백엔드** | FastAPI, GNN Model | API 서버 구축 및 AI 기반 안전 점수 계산 |
-| **데이터베이스** | PostGIS | 공간 데이터 저장/처리 및 경로 탐색 최적화 |
+| 프론트엔드 | Flutter, Mapbox | 크로스플랫폼 앱 개발 및 지도 시각화 |
+| 백엔드 | FastAPI, GNN Model | API 서버 구축 및 AI 기반 안전 점수 계산 |
+| 데이터베이스 | PostGIS | 공간 데이터 저장/처리 및 경로 탐색 최적화 |
